@@ -1,0 +1,31 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+build/
+coverage/
+.flutter-plugins
+.flutter-plugins-dependencies
+Generated.xcconfig
+
+# iOS
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Pods/
+
+# Android
+android/.gradle/
+android/app/build/
+
+# macOS
+macos/Flutter/ephemeral/
+
+# VS Code
+.vscode/
+
+# Others
+*.log
+*.lock
+*.mp4
+*.zip
+*.apk
