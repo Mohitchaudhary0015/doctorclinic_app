@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">269253742712</string>
+    <string name="google_api_key" translatable="false">AIzaSyDemtsJ-SIIqylmtv3m7cQ2E83bemD59ew</string>
+    <string name="google_app_id" translatable="false">1:269253742712:android:f2052f2dc7bd661be55d8d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDemtsJ-SIIqylmtv3m7cQ2E83bemD59ew</string>
+    <string name="google_storage_bucket" translatable="false">clinickart-66aab.firebasestorage.app</string>
+    <string name="project_id" translatable="false">clinickart-66aab</string>
+</resources>

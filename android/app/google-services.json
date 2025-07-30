@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "269253742712",
+    "project_id": "clinickart-66aab",
+    "storage_bucket": "clinickart-66aab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269253742712:android:f2052f2dc7bd661be55d8d",
+        "android_client_info": {
+          "package_name": "com.example.practice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDemtsJ-SIIqylmtv3m7cQ2E83bemD59ew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

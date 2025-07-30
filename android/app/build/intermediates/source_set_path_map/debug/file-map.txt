@@ -1,0 +1,50 @@
+com.example.practice.app-jetified-startup-runtime-1.1.1-0 /Users/mohitchaudhary/.gradle/caches/transforms-4/00944fac62065899b83fbd153308f940/transformed/jetified-startup-runtime-1.1.1/res
+com.example.practice.app-jetified-lifecycle-process-2.7.0-1 /Users/mohitchaudhary/.gradle/caches/transforms-4/2e382b8684e63a368542c75c8e08f4f5/transformed/jetified-lifecycle-process-2.7.0/res
+com.example.practice.app-lifecycle-runtime-2.7.0-2 /Users/mohitchaudhary/.gradle/caches/transforms-4/375d287f5a8fb9f5dda5e5e4b2d73460/transformed/lifecycle-runtime-2.7.0/res
+com.example.practice.app-jetified-android-maps-utils-3.6.0-3 /Users/mohitchaudhary/.gradle/caches/transforms-4/393b57c97569e14854f35b3654d8c4d2/transformed/jetified-android-maps-utils-3.6.0/res
+com.example.practice.app-jetified-annotation-experimental-1.4.0-4 /Users/mohitchaudhary/.gradle/caches/transforms-4/396eb13c2eee3de52a3852124947091e/transformed/jetified-annotation-experimental-1.4.0/res
+com.example.practice.app-core-runtime-2.2.0-5 /Users/mohitchaudhary/.gradle/caches/transforms-4/3ff0d0cd7421a65232dbcaf677034100/transformed/core-runtime-2.2.0/res
+com.example.practice.app-jetified-credentials-1.2.0-rc01-6 /Users/mohitchaudhary/.gradle/caches/transforms-4/442fc7844310ae6c3c952ab97b9b01a2/transformed/jetified-credentials-1.2.0-rc01/res
+com.example.practice.app-jetified-play-services-maps-18.2.0-7 /Users/mohitchaudhary/.gradle/caches/transforms-4/452b74f1a43ff91e6ac428a4c133ead6/transformed/jetified-play-services-maps-18.2.0/res
+com.example.practice.app-jetified-savedstate-1.2.1-8 /Users/mohitchaudhary/.gradle/caches/transforms-4/4f976292ce8c43be62cc4b884a05ffaa/transformed/jetified-savedstate-1.2.1/res
+com.example.practice.app-jetified-window-1.2.0-9 /Users/mohitchaudhary/.gradle/caches/transforms-4/5132435ee8c8b9e6b352001d387cb3f6/transformed/jetified-window-1.2.0/res
+com.example.practice.app-lifecycle-viewmodel-2.7.0-10 /Users/mohitchaudhary/.gradle/caches/transforms-4/53c621785aa74b7f94420acc53ba4dc1/transformed/lifecycle-viewmodel-2.7.0/res
+com.example.practice.app-jetified-activity-1.9.3-11 /Users/mohitchaudhary/.gradle/caches/transforms-4/8ebc56bc7f710ae7db626dc35493bf84/transformed/jetified-activity-1.9.3/res
+com.example.practice.app-jetified-tracing-1.2.0-12 /Users/mohitchaudhary/.gradle/caches/transforms-4/9f9d06cb7e42b77d36f6dabaa3e83085/transformed/jetified-tracing-1.2.0/res
+com.example.practice.app-core-1.13.1-13 /Users/mohitchaudhary/.gradle/caches/transforms-4/a012fbfa6ff955628cfd1f706e3db53b/transformed/core-1.13.1/res
+com.example.practice.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-14 /Users/mohitchaudhary/.gradle/caches/transforms-4/a71a6da2559616265f822b724038d0ef/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/res
+com.example.practice.app-jetified-core-ktx-1.13.1-15 /Users/mohitchaudhary/.gradle/caches/transforms-4/b0112a2ba35b797d5bf0c0fdc54a50bb/transformed/jetified-core-ktx-1.13.1/res
+com.example.practice.app-lifecycle-livedata-core-2.7.0-16 /Users/mohitchaudhary/.gradle/caches/transforms-4/c3506473c045e6a55d8a8ecb5103f615/transformed/lifecycle-livedata-core-2.7.0/res
+com.example.practice.app-jetified-play-services-base-18.3.0-17 /Users/mohitchaudhary/.gradle/caches/transforms-4/d27e58e4f91a347f011e91511199bb2f/transformed/jetified-play-services-base-18.3.0/res
+com.example.practice.app-jetified-lifecycle-livedata-core-ktx-2.7.0-18 /Users/mohitchaudhary/.gradle/caches/transforms-4/d5e2e1a501ae5bc461cbb2bc76433b4b/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/res
+com.example.practice.app-jetified-firebase-common-21.0.0-19 /Users/mohitchaudhary/.gradle/caches/transforms-4/d6040366fb01cc85d2d38094178863c4/transformed/jetified-firebase-common-21.0.0/res
+com.example.practice.app-fragment-1.7.1-20 /Users/mohitchaudhary/.gradle/caches/transforms-4/d9abf80ec90cbc4aa2bc7f9d18217ea7/transformed/fragment-1.7.1/res
+com.example.practice.app-jetified-core-1.0.0-21 /Users/mohitchaudhary/.gradle/caches/transforms-4/db373603c6ca3b484fb98d8b519d5ddc/transformed/jetified-core-1.0.0/res
+com.example.practice.app-jetified-window-java-1.2.0-22 /Users/mohitchaudhary/.gradle/caches/transforms-4/e3777204b5bc73de067d01f115ebcc68/transformed/jetified-window-java-1.2.0/res
+com.example.practice.app-lifecycle-livedata-2.7.0-23 /Users/mohitchaudhary/.gradle/caches/transforms-4/e5bbd2930e548a0f3b922c866348fa88/transformed/lifecycle-livedata-2.7.0/res
+com.example.practice.app-jetified-profileinstaller-1.3.1-24 /Users/mohitchaudhary/.gradle/caches/transforms-4/ead1ec9df21454742bf448399024571e/transformed/jetified-profileinstaller-1.3.1/res
+com.example.practice.app-jetified-play-services-basement-18.4.0-25 /Users/mohitchaudhary/.gradle/caches/transforms-4/eb57bd5e9968e18bdc202860ef9f84bd/transformed/jetified-play-services-basement-18.4.0/res
+com.example.practice.app-browser-1.8.0-26 /Users/mohitchaudhary/.gradle/caches/transforms-4/ed6a4df5c53a26d827d09d9c9d3614ea/transformed/browser-1.8.0/res
+com.example.practice.app-jetified-credentials-play-services-auth-1.2.0-rc01-27 /Users/mohitchaudhary/.gradle/caches/transforms-4/ee3331f53a2200101c8a0e9b20e38239/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/res
+com.example.practice.app-jetified-core-common-2.0.3-28 /Users/mohitchaudhary/.gradle/caches/transforms-4/f35bda52c4b8fe33f0bfdb75ed86b848/transformed/jetified-core-common-2.0.3/res
+com.example.practice.app-jetified-play-services-auth-20.7.0-29 /Users/mohitchaudhary/.gradle/caches/transforms-4/f97417fea4dde8ac85fa592c5da9f43e/transformed/jetified-play-services-auth-20.7.0/res
+com.example.practice.app-packaged_res-30 /Users/mohitchaudhary/.pub-cache/hosted/pub.dev/cloud_firestore-5.6.11/android/build/intermediates/packaged_res/debug
+com.example.practice.app-packaged_res-31 /Users/mohitchaudhary/.pub-cache/hosted/pub.dev/firebase_auth-5.6.2/android/build/intermediates/packaged_res/debug
+com.example.practice.app-packaged_res-32 /Users/mohitchaudhary/.pub-cache/hosted/pub.dev/firebase_core-3.15.1/android/build/intermediates/packaged_res/debug
+com.example.practice.app-packaged_res-33 /Users/mohitchaudhary/.pub-cache/hosted/pub.dev/firebase_database-11.3.9/android/build/intermediates/packaged_res/debug
+com.example.practice.app-packaged_res-34 /Users/mohitchaudhary/.pub-cache/hosted/pub.dev/firebase_storage-12.4.9/android/build/intermediates/packaged_res/debug
+com.example.practice.app-packaged_res-35 /Users/mohitchaudhary/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.28/android/build/intermediates/packaged_res/debug
+com.example.practice.app-packaged_res-36 /Users/mohitchaudhary/.pub-cache/hosted/pub.dev/google_maps_flutter_android-2.16.2/android/build/intermediates/packaged_res/debug
+com.example.practice.app-packaged_res-37 /Users/mohitchaudhary/.pub-cache/hosted/pub.dev/image_picker_android-0.8.12+23/android/build/intermediates/packaged_res/debug
+com.example.practice.app-packaged_res-38 /Users/mohitchaudhary/.pub-cache/hosted/pub.dev/location-7.0.1/android/build/intermediates/packaged_res/debug
+com.example.practice.app-packaged_res-39 /Users/mohitchaudhary/.pub-cache/hosted/pub.dev/path_provider_android-2.2.17/android/build/intermediates/packaged_res/debug
+com.example.practice.app-packaged_res-40 /Users/mohitchaudhary/.pub-cache/hosted/pub.dev/url_launcher_android-6.3.16/android/build/intermediates/packaged_res/debug
+com.example.practice.app-google-services-41 /Users/mohitchaudhary/Documents/untitled folder/untitled folder/clinickart_app/android/app/build/generated/res/google-services/debug
+com.example.practice.app-pngs-42 /Users/mohitchaudhary/Documents/untitled folder/untitled folder/clinickart_app/android/app/build/generated/res/pngs/debug
+com.example.practice.app-resValues-43 /Users/mohitchaudhary/Documents/untitled folder/untitled folder/clinickart_app/android/app/build/generated/res/resValues/debug
+com.example.practice.app-rs-44 /Users/mohitchaudhary/Documents/untitled folder/untitled folder/clinickart_app/android/app/build/generated/res/rs/debug
+com.example.practice.app-mergeDebugResources-45 /Users/mohitchaudhary/Documents/untitled folder/untitled folder/clinickart_app/android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.practice.app-mergeDebugResources-46 /Users/mohitchaudhary/Documents/untitled folder/untitled folder/clinickart_app/android/app/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.practice.app-merged_res-47 /Users/mohitchaudhary/Documents/untitled folder/untitled folder/clinickart_app/android/app/build/intermediates/merged_res/debug
+com.example.practice.app-debug-48 /Users/mohitchaudhary/Documents/untitled folder/untitled folder/clinickart_app/android/app/src/debug/res
+com.example.practice.app-main-49 /Users/mohitchaudhary/Documents/untitled folder/untitled folder/clinickart_app/android/app/src/main/res
