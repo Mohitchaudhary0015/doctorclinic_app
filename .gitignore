@@ -29,3 +29,6 @@ macos/Flutter/ephemeral/
 *.mp4
 *.zip
 *.apk
+# Add to .gitignore file
+echo "android/app/build/" >> .gitignore
+echo "android/gradle/wrapper/Oracle_JDK-24.jdk/" >> .gitignore
